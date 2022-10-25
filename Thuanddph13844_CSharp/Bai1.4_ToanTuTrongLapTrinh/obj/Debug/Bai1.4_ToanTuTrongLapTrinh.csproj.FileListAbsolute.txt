@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.4_ToanTuTrongLapTrinh\bin\Debug\Bai1.4_ToanTuTrongLapTrinh.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.4_ToanTuTrongLapTrinh\bin\Debug\Bai1.4_ToanTuTrongLapTrinh.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.4_ToanTuTrongLapTrinh\bin\Debug\Bai1.4_ToanTuTrongLapTrinh.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.4_ToanTuTrongLapTrinh\obj\Debug\Bai1.4_ToanTuTrongLapTrinh.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.4_ToanTuTrongLapTrinh\obj\Debug\Bai1.4_ToanTuTrongLapTrinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.4_ToanTuTrongLapTrinh\obj\Debug\Bai1.4_ToanTuTrongLapTrinh.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.4_ToanTuTrongLapTrinh\obj\Debug\Bai1.4_ToanTuTrongLapTrinh.pdb

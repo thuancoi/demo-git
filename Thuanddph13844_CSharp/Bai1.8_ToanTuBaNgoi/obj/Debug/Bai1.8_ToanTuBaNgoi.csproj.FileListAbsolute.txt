@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.8_ToanTuBaNgoi\bin\Debug\Bai1.8_ToanTuBaNgoi.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.8_ToanTuBaNgoi\bin\Debug\Bai1.8_ToanTuBaNgoi.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.8_ToanTuBaNgoi\bin\Debug\Bai1.8_ToanTuBaNgoi.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.8_ToanTuBaNgoi\obj\Debug\Bai1.8_ToanTuBaNgoi.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.8_ToanTuBaNgoi\obj\Debug\Bai1.8_ToanTuBaNgoi.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.8_ToanTuBaNgoi\obj\Debug\Bai1.8_ToanTuBaNgoi.csproj.CoreCompileInputs.cache

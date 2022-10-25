@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\test\TestThiCuoiKi\TestThiCuoiKi\bin\Debug\TestThiCuoiKi.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\test\TestThiCuoiKi\TestThiCuoiKi\bin\Debug\TestThiCuoiKi.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\test\TestThiCuoiKi\TestThiCuoiKi\bin\Debug\TestThiCuoiKi.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\test\TestThiCuoiKi\TestThiCuoiKi\obj\Debug\TestThiCuoiKi.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\test\TestThiCuoiKi\TestThiCuoiKi\obj\Debug\TestThiCuoiKi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\test\TestThiCuoiKi\TestThiCuoiKi\obj\Debug\TestThiCuoiKi.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\test\TestThiCuoiKi\TestThiCuoiKi\obj\Debug\TestThiCuoiKi.pdb

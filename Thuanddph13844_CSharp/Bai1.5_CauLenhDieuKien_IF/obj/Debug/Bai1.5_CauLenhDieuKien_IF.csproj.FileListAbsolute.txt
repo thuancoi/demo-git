@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\bin\Debug\Bai1.5_CauLenhDieuKien_IF.exe.config
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\bin\Debug\Bai1.5_CauLenhDieuKien_IF.exe
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\bin\Debug\Bai1.5_CauLenhDieuKien_IF.pdb
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\obj\Debug\Bai1.5_CauLenhDieuKien_IF.exe
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\obj\Debug\Bai1.5_CauLenhDieuKien_IF.pdb
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\obj\Debug\Bai1.5_CauLenhDieuKien_IF.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\bin\Debug\Bai1.5_CauLenhDieuKien_IF.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\bin\Debug\Bai1.5_CauLenhDieuKien_IF.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\bin\Debug\Bai1.5_CauLenhDieuKien_IF.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\obj\Debug\Bai1.5_CauLenhDieuKien_IF.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\obj\Debug\Bai1.5_CauLenhDieuKien_IF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\obj\Debug\Bai1.5_CauLenhDieuKien_IF.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.5_CauLenhDieuKien_IF\obj\Debug\Bai1.5_CauLenhDieuKien_IF.pdb

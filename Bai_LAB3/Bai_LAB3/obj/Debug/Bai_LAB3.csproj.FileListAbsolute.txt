@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Bai_LAB3\Bai_LAB3\obj\Debug\Bai_LAB3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Bai_LAB3\Bai_LAB3\obj\Debug\Bai_LAB3.csproj.CoreCompileInputs.cache

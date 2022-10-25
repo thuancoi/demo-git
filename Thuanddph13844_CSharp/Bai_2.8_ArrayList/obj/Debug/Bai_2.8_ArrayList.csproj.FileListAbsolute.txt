@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.8_ArrayList\bin\Debug\Bai_2.8_ArrayList.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.8_ArrayList\bin\Debug\Bai_2.8_ArrayList.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.8_ArrayList\bin\Debug\Bai_2.8_ArrayList.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.8_ArrayList\obj\Debug\Bai_2.8_ArrayList.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.8_ArrayList\obj\Debug\Bai_2.8_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.8_ArrayList\obj\Debug\Bai_2.8_ArrayList.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.8_ArrayList\obj\Debug\Bai_2.8_ArrayList.pdb

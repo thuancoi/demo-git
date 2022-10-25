@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.4_BaiTap_OnTap\obj\Debug\Bai_2.4_BaiTap_OnTap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.4_BaiTap_OnTap\bin\Debug\Bai_2.4_BaiTap_OnTap.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.4_BaiTap_OnTap\bin\Debug\Bai_2.4_BaiTap_OnTap.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.4_BaiTap_OnTap\bin\Debug\Bai_2.4_BaiTap_OnTap.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.4_BaiTap_OnTap\obj\Debug\Bai_2.4_BaiTap_OnTap.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.4_BaiTap_OnTap\obj\Debug\Bai_2.4_BaiTap_OnTap.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.4_BaiTap_OnTap\obj\Debug\Bai_2.4_BaiTap_OnTap.csproj.CoreCompileInputs.cache

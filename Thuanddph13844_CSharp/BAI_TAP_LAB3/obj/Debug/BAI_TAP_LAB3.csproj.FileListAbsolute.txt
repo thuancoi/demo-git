@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BAI_TAP_LAB3\bin\Debug\BAI_TAP_LAB3.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BAI_TAP_LAB3\bin\Debug\BAI_TAP_LAB3.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BAI_TAP_LAB3\bin\Debug\BAI_TAP_LAB3.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BAI_TAP_LAB3\obj\Debug\BAI_TAP_LAB3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BAI_TAP_LAB3\obj\Debug\BAI_TAP_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BAI_TAP_LAB3\obj\Debug\BAI_TAP_LAB3.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BAI_TAP_LAB3\obj\Debug\BAI_TAP_LAB3.pdb

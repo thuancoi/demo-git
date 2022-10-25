@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_CoBan\bin\Debug\BaiMau_CoBan.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_CoBan\bin\Debug\BaiMau_CoBan.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_CoBan\bin\Debug\BaiMau_CoBan.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_CoBan\obj\Debug\BaiMau_CoBan.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_CoBan\obj\Debug\BaiMau_CoBan.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_CoBan\obj\Debug\BaiMau_CoBan.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_CoBan\obj\Debug\BaiMau_CoBan.csproj.CoreCompileInputs.cache

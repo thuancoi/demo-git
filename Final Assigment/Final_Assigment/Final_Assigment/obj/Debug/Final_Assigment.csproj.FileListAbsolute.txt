@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\bin\Debug\Final_Assigment.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\bin\Debug\Final_Assigment.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\bin\Debug\Final_Assigment.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\obj\Debug\Final_Assigment.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\obj\Debug\Final_Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\obj\Debug\Final_Assigment.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\obj\Debug\Final_Assigment.pdb
+C:\Users\Admin\Desktop\Năm 1\SPRING 2021\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\bin\Debug\Final_Assigment.exe.config
+C:\Users\Admin\Desktop\Năm 1\SPRING 2021\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\bin\Debug\Final_Assigment.exe
+C:\Users\Admin\Desktop\Năm 1\SPRING 2021\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\bin\Debug\Final_Assigment.pdb
+C:\Users\Admin\Desktop\Năm 1\SPRING 2021\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\obj\Debug\Final_Assigment.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Năm 1\SPRING 2021\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\obj\Debug\Final_Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Năm 1\SPRING 2021\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\obj\Debug\Final_Assigment.exe
+C:\Users\Admin\Desktop\Năm 1\SPRING 2021\Lap Trinh C#\Final Assigment\Final_Assigment\Final_Assigment\obj\Debug\Final_Assigment.pdb

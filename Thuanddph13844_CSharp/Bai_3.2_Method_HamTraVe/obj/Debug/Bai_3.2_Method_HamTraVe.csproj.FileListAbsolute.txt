@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.2_Method_HamTraVe\bin\Debug\Bai_3.2_Method_HamTraVe.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.2_Method_HamTraVe\bin\Debug\Bai_3.2_Method_HamTraVe.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.2_Method_HamTraVe\bin\Debug\Bai_3.2_Method_HamTraVe.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.2_Method_HamTraVe\obj\Debug\Bai_3.2_Method_HamTraVe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.2_Method_HamTraVe\obj\Debug\Bai_3.2_Method_HamTraVe.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.2_Method_HamTraVe\obj\Debug\Bai_3.2_Method_HamTraVe.pdb

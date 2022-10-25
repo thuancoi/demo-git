@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.0_VongLap_While\bin\Debug\Bai_2.0_VongLap_While.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.0_VongLap_While\bin\Debug\Bai_2.0_VongLap_While.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.0_VongLap_While\bin\Debug\Bai_2.0_VongLap_While.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.0_VongLap_While\obj\Debug\Bai_2.0_VongLap_While.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.0_VongLap_While\obj\Debug\Bai_2.0_VongLap_While.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.0_VongLap_While\obj\Debug\Bai_2.0_VongLap_While.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.0_VongLap_While\obj\Debug\Bai_2.0_VongLap_While.pdb

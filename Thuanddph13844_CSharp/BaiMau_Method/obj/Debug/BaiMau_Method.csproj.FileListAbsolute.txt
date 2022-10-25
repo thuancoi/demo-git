@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_Method\bin\Debug\BaiMau_Method.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_Method\bin\Debug\BaiMau_Method.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_Method\bin\Debug\BaiMau_Method.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_Method\obj\Debug\BaiMau_Method.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_Method\obj\Debug\BaiMau_Method.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_Method\obj\Debug\BaiMau_Method.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\BaiMau_Method\obj\Debug\BaiMau_Method.pdb

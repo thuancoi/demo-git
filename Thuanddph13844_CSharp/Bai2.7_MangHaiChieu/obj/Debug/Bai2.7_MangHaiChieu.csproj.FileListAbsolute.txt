@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.7_MangHaiChieu\bin\Debug\Bai2.7_MangHaiChieu.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.7_MangHaiChieu\bin\Debug\Bai2.7_MangHaiChieu.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.7_MangHaiChieu\bin\Debug\Bai2.7_MangHaiChieu.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.7_MangHaiChieu\obj\Debug\Bai2.7_MangHaiChieu.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.7_MangHaiChieu\obj\Debug\Bai2.7_MangHaiChieu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.7_MangHaiChieu\obj\Debug\Bai2.7_MangHaiChieu.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.7_MangHaiChieu\obj\Debug\Bai2.7_MangHaiChieu.pdb

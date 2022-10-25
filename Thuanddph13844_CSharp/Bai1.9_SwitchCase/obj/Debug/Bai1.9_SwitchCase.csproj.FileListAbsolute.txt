@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.9_SwitchCase\obj\Debug\Bai1.9_SwitchCase.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.9_SwitchCase\bin\Debug\Bai1.9_SwitchCase.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.9_SwitchCase\bin\Debug\Bai1.9_SwitchCase.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.9_SwitchCase\bin\Debug\Bai1.9_SwitchCase.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.9_SwitchCase\obj\Debug\Bai1.9_SwitchCase.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.9_SwitchCase\obj\Debug\Bai1.9_SwitchCase.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.9_SwitchCase\obj\Debug\Bai1.9_SwitchCase.csproj.CoreCompileInputs.cache

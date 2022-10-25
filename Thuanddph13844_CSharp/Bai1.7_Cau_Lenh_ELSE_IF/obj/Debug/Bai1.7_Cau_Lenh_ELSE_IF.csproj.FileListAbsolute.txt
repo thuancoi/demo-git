@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.7_Cau_Lenh_ELSE_IF\bin\Debug\Bai1.7_Cau_Lenh_ELSE_IF.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.7_Cau_Lenh_ELSE_IF\bin\Debug\Bai1.7_Cau_Lenh_ELSE_IF.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.7_Cau_Lenh_ELSE_IF\bin\Debug\Bai1.7_Cau_Lenh_ELSE_IF.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.7_Cau_Lenh_ELSE_IF\obj\Debug\Bai1.7_Cau_Lenh_ELSE_IF.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.7_Cau_Lenh_ELSE_IF\obj\Debug\Bai1.7_Cau_Lenh_ELSE_IF.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.7_Cau_Lenh_ELSE_IF\obj\Debug\Bai1.7_Cau_Lenh_ELSE_IF.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.7_Cau_Lenh_ELSE_IF\obj\Debug\Bai1.7_Cau_Lenh_ELSE_IF.csproj.CoreCompileInputs.cache

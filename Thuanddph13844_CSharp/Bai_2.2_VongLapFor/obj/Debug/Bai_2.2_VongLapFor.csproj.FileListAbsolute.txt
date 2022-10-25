@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.2_VongLapFor\bin\Debug\Bai_2.2_VongLapFor.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.2_VongLapFor\bin\Debug\Bai_2.2_VongLapFor.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.2_VongLapFor\bin\Debug\Bai_2.2_VongLapFor.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.2_VongLapFor\obj\Debug\Bai_2.2_VongLapFor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.2_VongLapFor\obj\Debug\Bai_2.2_VongLapFor.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.2_VongLapFor\obj\Debug\Bai_2.2_VongLapFor.pdb

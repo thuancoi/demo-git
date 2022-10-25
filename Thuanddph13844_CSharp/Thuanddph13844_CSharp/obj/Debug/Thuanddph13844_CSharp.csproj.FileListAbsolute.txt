@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Thuanddph13844_CSharp\bin\Debug\Thuanddph13844_CSharp.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Thuanddph13844_CSharp\bin\Debug\Thuanddph13844_CSharp.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Thuanddph13844_CSharp\bin\Debug\Thuanddph13844_CSharp.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Thuanddph13844_CSharp\obj\Debug\Thuanddph13844_CSharp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Thuanddph13844_CSharp\obj\Debug\Thuanddph13844_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Thuanddph13844_CSharp\obj\Debug\Thuanddph13844_CSharp.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Thuanddph13844_CSharp\obj\Debug\Thuanddph13844_CSharp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap_Array_List_(LAB3)\bin\Debug\Bai_Tap_Array_List_(LAB3).exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap_Array_List_(LAB3)\bin\Debug\Bai_Tap_Array_List_(LAB3).exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap_Array_List_(LAB3)\bin\Debug\Bai_Tap_Array_List_(LAB3).pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap_Array_List_(LAB3)\obj\Debug\Bai_Tap_Array_List_(LAB3).csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap_Array_List_(LAB3)\obj\Debug\Bai_Tap_Array_List_(LAB3).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap_Array_List_(LAB3)\obj\Debug\Bai_Tap_Array_List_(LAB3).exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap_Array_List_(LAB3)\obj\Debug\Bai_Tap_Array_List_(LAB3).pdb

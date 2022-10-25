@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_1.6_CauLenh_IF_ElSE\bin\Debug\Bai_1.6_CauLenh_IF_ElSE.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_1.6_CauLenh_IF_ElSE\bin\Debug\Bai_1.6_CauLenh_IF_ElSE.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_1.6_CauLenh_IF_ElSE\bin\Debug\Bai_1.6_CauLenh_IF_ElSE.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_1.6_CauLenh_IF_ElSE\obj\Debug\Bai_1.6_CauLenh_IF_ElSE.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_1.6_CauLenh_IF_ElSE\obj\Debug\Bai_1.6_CauLenh_IF_ElSE.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_1.6_CauLenh_IF_ElSE\obj\Debug\Bai_1.6_CauLenh_IF_ElSE.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_1.6_CauLenh_IF_ElSE\obj\Debug\Bai_1.6_CauLenh_IF_ElSE.csproj.CoreCompileInputs.cache

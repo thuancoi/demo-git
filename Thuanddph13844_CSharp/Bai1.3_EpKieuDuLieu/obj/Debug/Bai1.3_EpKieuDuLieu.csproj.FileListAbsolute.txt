@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\bin\Debug\Bai1.3_EpKieuDuLieu.exe.config
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\bin\Debug\Bai1.3_EpKieuDuLieu.exe
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\bin\Debug\Bai1.3_EpKieuDuLieu.pdb
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\obj\Debug\Bai1.3_EpKieuDuLieu.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\obj\Debug\Bai1.3_EpKieuDuLieu.exe
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\obj\Debug\Bai1.3_EpKieuDuLieu.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\bin\Debug\Bai1.3_EpKieuDuLieu.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\bin\Debug\Bai1.3_EpKieuDuLieu.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\bin\Debug\Bai1.3_EpKieuDuLieu.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\obj\Debug\Bai1.3_EpKieuDuLieu.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\obj\Debug\Bai1.3_EpKieuDuLieu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\obj\Debug\Bai1.3_EpKieuDuLieu.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai1.3_EpKieuDuLieu\obj\Debug\Bai1.3_EpKieuDuLieu.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong\obj\Debug\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong\obj\Debug\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong\bin\Debug\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong\bin\Debug\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong\bin\Debug\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong\obj\Debug\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong\obj\Debug\Bai3.0_OOP_Lap_Trinh_Huong_Doi_Tuong.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\LAB 4-5\Lab4-5\Lab4-5\bin\Debug\Lab4-5.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\LAB 4-5\Lab4-5\Lab4-5\bin\Debug\Lab4-5.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\LAB 4-5\Lab4-5\Lab4-5\bin\Debug\Lab4-5.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\LAB 4-5\Lab4-5\Lab4-5\obj\Debug\Lab4-5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\LAB 4-5\Lab4-5\Lab4-5\obj\Debug\Lab4-5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\LAB 4-5\Lab4-5\Lab4-5\obj\Debug\Lab4-5.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\LAB 4-5\Lab4-5\Lab4-5\obj\Debug\Lab4-5.pdb

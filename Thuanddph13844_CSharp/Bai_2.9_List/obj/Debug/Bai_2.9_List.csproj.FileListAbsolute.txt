@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.9_List\bin\Debug\Bai_2.9_List.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.9_List\bin\Debug\Bai_2.9_List.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.9_List\bin\Debug\Bai_2.9_List.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.9_List\obj\Debug\Bai_2.9_List.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.9_List\obj\Debug\Bai_2.9_List.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.9_List\obj\Debug\Bai_2.9_List.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.9_List\obj\Debug\Bai_2.9_List.csprojAssemblyReference.cache

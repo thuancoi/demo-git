@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.1_VongLap_DoWhile\bin\Debug\Bai2.1_VongLap_DoWhile.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.1_VongLap_DoWhile\bin\Debug\Bai2.1_VongLap_DoWhile.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.1_VongLap_DoWhile\bin\Debug\Bai2.1_VongLap_DoWhile.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.1_VongLap_DoWhile\obj\Debug\Bai2.1_VongLap_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.1_VongLap_DoWhile\obj\Debug\Bai2.1_VongLap_DoWhile.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai2.1_VongLap_DoWhile\obj\Debug\Bai2.1_VongLap_DoWhile.pdb

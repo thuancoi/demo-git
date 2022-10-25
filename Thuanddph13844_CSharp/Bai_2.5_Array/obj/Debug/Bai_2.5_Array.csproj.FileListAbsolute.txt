@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.5_Array\bin\Debug\Bai_2.5_Array.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.5_Array\bin\Debug\Bai_2.5_Array.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.5_Array\bin\Debug\Bai_2.5_Array.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.5_Array\obj\Debug\Bai_2.5_Array.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.5_Array\obj\Debug\Bai_2.5_Array.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.5_Array\obj\Debug\Bai_2.5_Array.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_2.5_Array\obj\Debug\Bai_2.5_Array.csproj.CoreCompileInputs.cache

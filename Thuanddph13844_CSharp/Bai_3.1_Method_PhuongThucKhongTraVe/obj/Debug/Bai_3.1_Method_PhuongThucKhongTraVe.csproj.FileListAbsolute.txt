@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.1_Method_PhuongThucKhongTraVe\bin\Debug\Bai_3.1_Method_PhuongThucKhongTraVe.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.1_Method_PhuongThucKhongTraVe\bin\Debug\Bai_3.1_Method_PhuongThucKhongTraVe.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.1_Method_PhuongThucKhongTraVe\bin\Debug\Bai_3.1_Method_PhuongThucKhongTraVe.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.1_Method_PhuongThucKhongTraVe\obj\Debug\Bai_3.1_Method_PhuongThucKhongTraVe.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.1_Method_PhuongThucKhongTraVe\obj\Debug\Bai_3.1_Method_PhuongThucKhongTraVe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.1_Method_PhuongThucKhongTraVe\obj\Debug\Bai_3.1_Method_PhuongThucKhongTraVe.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_3.1_Method_PhuongThucKhongTraVe\obj\Debug\Bai_3.1_Method_PhuongThucKhongTraVe.pdb

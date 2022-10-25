@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai_Tap\bin\Debug\Bai_Tap.exe.config
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai_Tap\bin\Debug\Bai_Tap.exe
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai_Tap\bin\Debug\Bai_Tap.pdb
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai_Tap\obj\Debug\Bai_Tap.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai_Tap\obj\Debug\Bai_Tap.exe
+C:\Users\Admin\source\repos\Thuanddph13844_CSharp\Bai_Tap\obj\Debug\Bai_Tap.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap\obj\Debug\Bai_Tap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap\obj\Debug\Bai_Tap.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap\obj\Debug\Bai_Tap.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap\bin\Debug\Bai_Tap.exe.config
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap\bin\Debug\Bai_Tap.exe
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap\bin\Debug\Bai_Tap.pdb
+C:\Users\Admin\Desktop\Lap Trinh C#\Thuanddph13844_CSharp\Bai_Tap\obj\Debug\Bai_Tap.csproj.CoreCompileInputs.cache
